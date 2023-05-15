@@ -1,0 +1,53 @@
+body{
+    background-color: #fff;
+    color: #522d2d;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+.container{
+    width: 80%;
+    margin:auto;
+    overflow: hidden;
+}
+
+#main-header{
+    background-color: rgb(124, 34, 90);
+    color: lightsteelblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+}
+
+#navbar{
+    background-color: lightseagreen;
+    color: #fff;
+}
+
+#navbar ul{
+    padding: 0;
+    list-style: none;
+}
+
+#navbar li{
+    display: inline;
+}
+
+#navbar a{
+    color: #fff;
+    text-decoration: solid;
+    font-size: 25px;
+    padding-right: 15px;
+}    
+
+#showcase h2{
+    color: lightblue;
+    background-color: black;
+    padding: 10px;
+}
+
+
+
+
+
