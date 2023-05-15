@@ -1,0 +1,106 @@
+body{
+    background-color: #fff;
+    color: #555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+.container{
+    width: 80%;
+    margin:auto;
+    overflow: hidden;
+}
+
+#main-header{
+    background-color: rgb(40, 221, 221);
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+}
+
+#navbar{
+    background-color: #333;
+    color: #fff;
+}
+
+#navbar ul{
+    padding: 0;
+    list-style: none;
+}
+
+#navbar li{
+    display: inline;
+}
+
+#navbar a{
+    color: #fff;
+    text-decoration: solid;
+    font-size: 25px;
+    padding-right: 15px;
+}
+
+#showcase{
+    background-image: url(image/starry-night-alex-ruiz.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 225px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#showcase h2{
+    color: yellow;
+    font-size: 25px;
+    line-height: 1.6em;
+    padding-top: 20px;
+}
+
+#main{
+    float: left;
+    width: 60%;
+    padding: 0 30px;
+    box-sizing: border-box;
+}
+
+#main h2{
+    padding-left: 50px;
+    color: black;
+}
+
+#main ol{
+    color: black;
+}
+
+#sidebar{
+    float:right;
+    width: 40%;
+    background: #333;
+    color: #fff;
+    box-sizing: border-box;
+    padding-left: 20px;
+}
+
+#sidebar ul{
+    padding: 0;
+    list-style: none;
+}
+
+#sidebar a{
+    color: royalblue;
+    text-decoration: solid;
+    font-size: 18px;
+    padding-left: 20px;
+
+}
+
+#main-footer{
+    background: black;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin-top: 300px;
+}
+
+
